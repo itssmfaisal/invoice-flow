@@ -9,6 +9,8 @@ flutter pub get
 flutter run
 ```
 
+For setup instructions on another machine, see [RUN_ON_ANOTHER_MACHINE.md](RUN_ON_ANOTHER_MACHINE.md).
+
 ## Included flows
 
 - Dashboard metrics and recent invoice activity
